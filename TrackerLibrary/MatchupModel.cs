@@ -22,7 +22,7 @@ namespace TrackerLibrary
         public TeamModel Winner { get; set; }
 
         /// <summary>
-        /// Wich round this match is a part of.
+        /// Wich round this match is a part of..
         /// </summary>
         public int MatchupRound { get; set; }
 
